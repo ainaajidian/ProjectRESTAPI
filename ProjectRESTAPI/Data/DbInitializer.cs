@@ -17,10 +17,10 @@ namespace ProjectRESTAPI.Data
 
             var students = new Student[]
             {
-                new Student{FirstName="Erick", LastName="Kurniawan", EnrollmentDate=DateTime.Now},
-                new Student{FirstName="Agus", LastName="Kurniawan", EnrollmentDate=DateTime.Now},
                 new Student{FirstName="Peter", LastName="Parker", EnrollmentDate=DateTime.Now},
                 new Student{FirstName="Tony", LastName="Stark", EnrollmentDate=DateTime.Now},
+                new Student{FirstName="Steve", LastName="Roger", EnrollmentDate=DateTime.Now},
+                new Student{FirstName="Natasha", LastName="Romanoff", EnrollmentDate=DateTime.Now},
                 new Student{FirstName="Bruce", LastName="Banner", EnrollmentDate=DateTime.Now},
             };
 
